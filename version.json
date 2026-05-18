@@ -1,0 +1,5 @@
+{
+  "version": "1.1.0",
+  "download_url": "https://github.com/xiaolin2008/pet_store_releases/releases/download/v1.1.0/PetStorePOS-v1.1.0-windows.exe",
+  "changelog": "1. 增加微信、支付宝聚合收银准备结构；\n2. 修复了一些已知的 UI 缩进排版 Bug；\n3. 新增了主界面修改员工密码的可视化功能。"
+}
